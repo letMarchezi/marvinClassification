@@ -24,7 +24,7 @@ git clone git@github.com:letMarchezi/marvinClassification.git
 workon python-toolbox-env
 marvin engine-generateenv ../engines/marvinClassification/
 ```
-3. Run the Iris species engine
+3. Run the classification engine
 
 ```
 workon marvinClassification-engine-env

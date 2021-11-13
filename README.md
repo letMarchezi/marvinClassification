@@ -27,7 +27,7 @@ marvin engine-generateenv ../engines/marvinClassification/
 3. Run the classification engine
 
 ```
-workon marvinClassification-engine-env
+workon marvinClassification-env
 marvin engine-dryrun 
 ```
 

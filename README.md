@@ -50,7 +50,7 @@ Click on "Execute" and you should see the prediction output bellow.
 
  
 ## Second approach
-### Creating your engine on your own
+### Creating engine on your own
 
 
 1. Clone the repo containing python notebook 
